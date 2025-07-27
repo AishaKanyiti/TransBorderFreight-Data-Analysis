@@ -77,3 +77,11 @@ Invest in infrastructure upgrades for high-volume truck routes.
 Promote logistics optimization to reduce delays and costs.
 
 Support high-value commodities through trade-friendly policies.
+
+## 📊 Power BI Dashboard
+
+You can access the interactive dashboard here:  
+👉 [Download the Power BI (.pbix) file](https://drive.google.com/file/d/1feTpU3NhBKRZkJKQsT8VQT4Rgir8ZWla/view?usp=sharing)
+
+> 📌 **Note:** The file is hosted on Google Drive because GitHub does not support large file uploads.
+
